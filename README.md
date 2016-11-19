@@ -5,6 +5,5 @@ Also, this panel can be used as an alternative to the standard one provided with
 
 # Some links
 
-- https://www.youtube.com/watch?v=8zbJUWdJp1s
 - https://www.youtube.com/watch?v=shHEjUIRyj0
 - https://www.youtube.com/watch?v=Cyyy5sD7jqo
